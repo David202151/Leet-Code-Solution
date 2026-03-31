@@ -46,6 +46,6 @@ sol = Solution()
 
 l1 = to_linked_list([2, 4, 3])
 l2 = to_linked_list([5, 6, 4])
-print(to_list(sol.addTwoNumbers(l1, l2)))  # [7, 0, 8] ✅
+print(to_list(sol.addTwoNumbers(l1, l2)))
 
         
